@@ -66,8 +66,6 @@ public class CartPage extends BasePage {
         clickElement(saveButtonLocator);
     }
 
-
-    //-------------------------------
     public void selectCargo() {
         clickElement(cargoLocator);
         clickElement(saveAndContinueButtonLocator);
