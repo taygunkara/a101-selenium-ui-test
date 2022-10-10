@@ -27,4 +27,4 @@ Uçtan uca ödeme ekranına kadar Selenium’da java dili ile chrome browser kul
 - selenium-chrome-driver
 - [webdrivermanager](https://github.com/bonigarcia/webdrivermanager)
 - testng
-- javafaker
+- [javafaker](https://github.com/HannnnXiao/javafaker)
